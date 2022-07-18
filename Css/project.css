@@ -1,0 +1,74 @@
+#Project {
+    margin: 79px 80px;
+    /* border: 2px solid black; */
+    padding: 20px 23px;
+    /* margin: 50px 50px; */
+    /* border: 2px solid black; */
+}
+
+.projectHeight {
+    /* height: 200px; */
+    padding: 50px 50px;
+}
+
+.project_head {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.project_head h2 {
+    font-size: 30px;
+}
+
+.project_head h2 span {
+    color: #0BCEAF;
+}
+
+.project_head p {
+    font-size: 20px;
+}
+
+.buttonDesign {
+    background-color: #0BCEAF;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 3px 5px;
+    transition: .4s;
+    border-radius: 6px;
+    margin: 0px 2px;
+    text-align: center;
+}
+
+.buttonDesign:hover {
+    background-color: transparent;
+    border: 2px solid #0BCEAF;
+    cursor: pointer;
+    color: black;
+}
+
+.secondButtonDesign {
+    color: #6c757d;
+    background-color: #fff;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 3px 5px;
+    transition: .4s;
+    border-radius: 6px;
+    text-align: center;
+    /* border: 2px solid #6c757d; */
+
+}
+
+.secondButtonDesign:hover {
+    background-color: transparent;
+    border: 2px solid #0BCEAF;
+    cursor: pointer;
+    color: black;
+}
+
+.setWidth{
+    width: 18rem;
+}

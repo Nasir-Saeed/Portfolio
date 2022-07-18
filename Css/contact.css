@@ -1,0 +1,12 @@
+.contact_head {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.contact_head h2 {
+    font-size: 30px;
+}
+
+.contact_head h2 span {
+    color: #6c757d;
+}
